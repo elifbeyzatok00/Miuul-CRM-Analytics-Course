@@ -1,5 +1,5 @@
 # Miuul CRM Analytics Course
-Miuul CRM Analiz Kursu boyunca yazılan kodlar, notlar, kullanılan slaytlar ve projelerin eklendeği
+[Miuul CRM Analiz Kursu](https://learning.miuul.com/courses/take/crm-analytics) boyunca yazılan kodlar, notlar, kullanılan slaytlar ve projelerin eklendeği
 CRM Analizi için Türkçe kaynak niteliğindeki depo
 
 ## The [codes](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/codes) encoded in the lesson
