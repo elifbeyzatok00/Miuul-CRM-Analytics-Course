@@ -8,10 +8,12 @@ CRM Analizi için Türkçe kaynak niteliğindeki depo
 * [CLTVS Prediction](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/codes/cltv_prediction)
 * [Datasets](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/codes/datasets)
 
+## 📌[Click here](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/slayts) to access lessons' slayts
+
+## 👩🏻‍💻 [Click here](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/case-studies) to access lessons' codes
+
 ## 📘 [Click here](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/case-studies) to access case studies
 
 ## 📔 [Click here](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/bonus-projects) to access bonus projects
 
-## 📌[Click here](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/slayts) to access lessons' slayts
-
-## 📌[Click here](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/blob/master/notes.pdf) to access my notes
+## 📝[Click here](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/blob/master/notes.pdf) to access my notes
