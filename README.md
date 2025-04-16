@@ -2,7 +2,7 @@
 [Miuul CRM Analiz Kursu](https://learning.miuul.com/courses/take/crm-analytics) boyunca yazılan kodlar, notlar, kullanılan slaytlar ve projelerin eklendeği
 CRM Analizi için Türkçe kaynak niteliğindeki depo
 
-## 👩🏻‍💻 The [codes](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/codes) encoded in the lessons
+## 👩🏻‍💻 The [codes](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/codes) coded in the lessons
 * [RFM](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/codes/rfm)
 * [CLTVS](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/codes/cltv)
 * [CLTVS Prediction](https://github.com/elifbeyzatok00/Miuul-CRM-Analytics-Course/tree/master/codes/cltv_prediction)
